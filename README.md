@@ -16,7 +16,7 @@ Unordered list
 - Second Item
 - Third Item
 
-At the command prompt, type 'Code'
+At the command prompt, type `Code`
 
 Horizontal...
 
