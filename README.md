@@ -16,10 +16,9 @@ Unordered list
 - Second Item
 - Third Item
 
-Horizontal Rule
----
+---Horizontal Rule
 
-[Link](https://https://pages.github.com/)
+[Link](https://pages.github.com/)
 
 
 Image
