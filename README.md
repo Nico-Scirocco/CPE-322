@@ -28,4 +28,4 @@ Horizontal...
 
 
 Image
-![alt text](image.jpg)
+![alt text](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
