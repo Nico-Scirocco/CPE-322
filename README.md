@@ -28,4 +28,4 @@ Horizontal...
 
 
 Image
-![alt text](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Mountains](https://wallpaperaccess.com/full/38580.jpg)
