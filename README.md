@@ -24,6 +24,7 @@ Personal Projects
 [Check out some of my personal projects here!](www.youtube.com/@nicholasscirocco1432)
 
 Check out this Bionic Arm that I built
+
 ![Bionic Arm I Built](https://github.com/user-attachments/assets/e59b179b-f95a-4c20-ae14-d926d54fc584)
 
 
