@@ -25,4 +25,4 @@ Personal Projects
 
 
 Image
-![BionicArm]("CPE-322/IMG_6878.jpeg")
+![BionicArm]("IMG_6878.jpeg")
