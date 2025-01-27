@@ -25,4 +25,4 @@ Personal Projects
 
 
 Image
-![Mountains](https://wallpaperaccess.com/full/38580.jpg)
+![BionicArm]("C:\Users\nicor\Downloads\IMG_6878.jpeg")
