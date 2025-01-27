@@ -17,11 +17,9 @@
 
 At the command prompt, type `Code`
 
-Horizontal...
+Personal Projects
 
 ---
-
-...Rule
 
 [Check out some of my personal projects here!](www.youtube.com/@nicholasscirocco1432)
 
