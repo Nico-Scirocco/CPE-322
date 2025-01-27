@@ -25,6 +25,7 @@ Personal Projects
 
 
 Bionic Arm I Built
-![BionicArm]([IMG_6878](https://github.com/user-attachments/assets/137da7eb-a551-4f02-9910-c22fbe619fbe))
+![Bionic Arm](![IMG_6878](https://github.com/user-attachments/assets/e5946f96-fbea-4392-9da8-4837a7ba51eb)
+)
 
 
