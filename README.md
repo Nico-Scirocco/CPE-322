@@ -1,6 +1,7 @@
 # Nicholas Scirocco Portfolio
 
 **Stevens Institute of Technology 2026**
+
 *Bachelor of Engineering - Computer Engineering*
 
 > blockQuote
