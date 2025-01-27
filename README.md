@@ -4,16 +4,16 @@
 
 *Bachelor of Engineering - Computer Engineering*
 
-> Projects
+> Current Courses & Labs
 
-1. First Item
-2. Second Item
-3. Third Item
+1. Computer Princ. for Mobile and Embedded Systems
+2. Applied Data Structures & Algorithms
+3. Engineering Programing: Python
    
-Unordered list
-- First Item
-- Second Item
-- Third Item
+> Languages Used
+- ARMv9
+- C++
+- Python
 
 At the command prompt, type `Code`
 
@@ -23,7 +23,7 @@ Horizontal...
 
 ...Rule
 
-[Link](https://pages.github.com/)
+[Check out some of my personal projects here!](www.youtube.com/@nicholasscirocco1432)
 
 
 Image
