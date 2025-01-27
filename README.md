@@ -4,8 +4,7 @@
 
 *Bachelor of Engineering - Computer Engineering*
 
-> blockQuote
-
+> Projects
 
 1. First Item
 2. Second Item
