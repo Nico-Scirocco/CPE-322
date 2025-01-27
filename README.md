@@ -1,12 +1,11 @@
-# Heading
+# Nicholas Scirocco Portfolio
 
-**Bold**
-
-*Italic*
+**Stevens Institute of Technology 2026**
+*Bachelor of Engineering - Computer Engineering*
 
 > blockQuote
 
-Ordered List
+
 1. First Item
 2. Second Item
 3. Third Item
