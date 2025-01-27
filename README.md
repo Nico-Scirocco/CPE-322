@@ -25,4 +25,4 @@ Personal Projects
 
 
 Image
-![BionicArm]("C:\Users\nicor\Downloads\IMG_6878.jpeg")
+![BionicArm]("CPE-322/IMG_6878.jpeg")
