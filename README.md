@@ -24,6 +24,5 @@ Personal Projects
 [Check out some of my personal projects here!](www.youtube.com/@nicholasscirocco1432)
 
 
-
-![BionicArm]("![IMG_6878](https://github.com/user-attachments/assets/6aad0041-020b-4cc3-8a47-292b5b2e3aab)
-")
+Bionic Arm I Built
+![BionicArm]("![IMG_6878](https://github.com/user-attachments/assets/6aad0041-020b-4cc3-8a47-292b5b2e3aab)")
