@@ -21,7 +21,7 @@ Personal Projects
 
 ---
 
-[Check out some of my website](https://sites.google.com/stevens.edu/nicholas-scirocco-site?usp=sharing)
+[Check out my website!](https://sites.google.com/stevens.edu/nicholas-scirocco-site?usp=sharing)
 
 This is a Bionic Arm that I built!
 
