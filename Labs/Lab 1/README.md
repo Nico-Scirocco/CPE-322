@@ -1,5 +1,6 @@
 # Lab 1 GHDL & GTKWave
 
+*I pledge my honor I have abided by the Stevens Honor System - Nicholas Scirocco*
 
 ## Half Adder Example
 
@@ -18,4 +19,15 @@ gtkwave ha.vcd
 
 
 
+## 4-to-1 Multiplexer
 
+> Code
+
+```
+ghdl -a mux.vhdl
+ghdl -a mux_tb.vhdl
+ghdl -e mux_tb
+ghdl -r mux_tb --vcd=mux.vcd
+gtkwave mux.vcd
+```
+![MUX](https://github.com/user-attachments/assets/7c02eee8-f18a-4f3a-b337-d971f9b50656)
