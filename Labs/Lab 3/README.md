@@ -1,4 +1,7 @@
-a
+# Lab 3 Python
+
+*I pledge my honor I have abided by the Stevens Honor System - Nicholas Scirocco*
+
 ## `cd ~/iot` and `cd *3` 
 
 ![image](https://github.com/user-attachments/assets/828b243d-f064-4bfc-b858-5531d602d493)
