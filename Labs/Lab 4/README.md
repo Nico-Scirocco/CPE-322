@@ -2,6 +2,8 @@
 
 *I pledge my honor I have abided by the Stevens Honor System - Nicholas Scirocco*
 
+## Django Project - Stevens
+-----
 
 ![image](https://github.com/user-attachments/assets/a246f5a8-448a-4f3d-bd46-1f23093dd05f)
 
@@ -9,11 +11,9 @@
 
 ![image](https://github.com/user-attachments/assets/b24df771-482d-4808-9adb-0d98b0edfe85)
 
-
 ![image](https://github.com/user-attachments/assets/74aaea4d-8fb5-471f-bdae-0f40d26b123a)
 
 ![image](https://github.com/user-attachments/assets/b7cae40c-97ec-469f-9ea1-cb09c5bdff8f)
-
 
 ![image](https://github.com/user-attachments/assets/ea259245-be0d-4257-9239-741625e05669)
 
@@ -27,6 +27,8 @@
 
 ![image](https://github.com/user-attachments/assets/2aa4407c-8676-429c-87ca-459b166ef256)
 
+
+## Django REST Project - MyCPU
 -------------------
 
 ![image](https://github.com/user-attachments/assets/eb1f454a-4df7-4037-be0b-223f3ff87866)
@@ -48,6 +50,7 @@
 ![image](https://github.com/user-attachments/assets/2c5c1dc3-a06b-496f-ba69-d3334803140d)
 
 
+## Flask Server
  ------
 
 ![image](https://github.com/user-attachments/assets/9b19f575-47a0-4db5-a3c6-f7ee95e928c2)
