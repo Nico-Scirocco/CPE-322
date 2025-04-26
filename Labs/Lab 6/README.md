@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/66859757-e0f8-4abb-8101-68f0d5a34d41)
 
 
-## Run the example program, I used `python say_hello.py`
+## Run the example program, `python say_hello.py`
 
 ![image](https://github.com/user-attachments/assets/dbe69575-0bef-4aaf-bcff-6f433eec773d)
 
