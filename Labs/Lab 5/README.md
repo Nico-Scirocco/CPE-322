@@ -13,17 +13,17 @@
 ![image](https://github.com/user-attachments/assets/68f2e699-0f2d-41a5-a798-b266689ef0c5)
 
 
-# The first test uses python3 sub.py on one terminal and python3 pub.py on the other
+# First Test: `sub.py` on one terminal and `pub.py` on the other
 
 ![image](https://github.com/user-attachments/assets/cc5eb6f0-1f76-4bdf-98e5-d8fa554fa790)
 
 
-# The second examples tests what happens when multiple messages are published using python3 sub-multiple.py and python3 pub-multiple.py on each terminal
+# Second Test: Multiple messages are published using `sub-multiple.py` and `pub-multiple.py` on each terminal
 
 ![image](https://github.com/user-attachments/assets/3f7da5f7-4f2b-4aed-a572-791d6c7075b5)
 
 
-# The final example has messages being continuously published, using python3 subcpu.py and python3 pubcpu.py
+# Third Test: `subcpu.py` and `pubcpu.py`
 
 ![image](https://github.com/user-attachments/assets/2e0f44b3-df58-49d6-b517-3aa98ae68776)
 
