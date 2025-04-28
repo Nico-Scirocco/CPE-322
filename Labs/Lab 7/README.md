@@ -1,3 +1,14 @@
-# Lab 7
+# Lab 7 ThingSpeak and Google Sheets
 
 *I pledge my honor I have abided by the Stevens Honor System - Nicholas Scirocco*
+
+
+![image](https://github.com/user-attachments/assets/71c64266-8517-4338-b501-5214468fdcf7)
+
+![image](https://github.com/user-attachments/assets/16c2b6b3-7dbb-46f1-b2f9-6aa54995b5c0)
+
+![image](https://github.com/user-attachments/assets/ec4b8846-470a-4809-b965-acc9647f2299)
+
+![image](https://github.com/user-attachments/assets/9bd24ce5-ccd4-4673-9b5e-10e651d4d51e)
+
+![image](https://github.com/user-attachments/assets/0453508b-12c6-4e8d-a034-15714b9399c3)
