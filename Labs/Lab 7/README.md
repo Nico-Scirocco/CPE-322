@@ -21,9 +21,9 @@ I first logged into the Mathworks account and created new channels called cpu_lo
 
 I first created a new project called cpudata on the Google Cloud Platform IAM. 
 
-I enabled the Google Drive and Google Sheets API for this project. 
+I then enabled the Google Drive and Google Sheets API for this project. 
 
-Then I created a service account key and saved the json file containing this information.
+Finally, I created a service account key and saved the .json file containing this information.
 
 ![image](https://github.com/user-attachments/assets/e0179286-9ce3-44b2-aead-dbf630e6d90b)
 
