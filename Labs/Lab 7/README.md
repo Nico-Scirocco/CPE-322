@@ -2,7 +2,7 @@
 
 *I pledge my honor I have abided by the Stevens Honor System - Nicholas Scirocco*
 
-## Reviewing and Running ThingSpeak
+## ThingSpeak
 
 I first logged into the Mathworks account and created new channels called cpu_loop with fields for cpu_pc and mem_avail_mb.
 
