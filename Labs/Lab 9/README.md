@@ -20,4 +20,6 @@
 
 ## Used PlantUML to create a diagram from this new .uml file using  `plantuml intrusiondetection.uml`
 
+![image](https://github.com/user-attachments/assets/2108d6c9-91be-40a3-a8b7-b3b72407c163)
+
 ![image](https://github.com/user-attachments/assets/0ab9d6b7-2699-42f3-b52e-1059377d4c79)
