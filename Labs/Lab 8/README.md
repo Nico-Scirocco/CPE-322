@@ -12,5 +12,7 @@
 
 ## Test Program: `keras_diabetes.py`
 
+![image](https://github.com/user-attachments/assets/47616468-ef4a-4617-aae3-6efdbe34c822)
+
 
 ## Test Program: `keras_first_network.py`
