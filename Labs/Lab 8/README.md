@@ -74,3 +74,6 @@
 **Predicted vs Memory Available GB**
 
 ![image](https://github.com/user-attachments/assets/70b6875a-c65e-4c8e-8e5f-9b48e3cf883b)
+
+![image](https://github.com/user-attachments/assets/6206439d-e623-4344-ab5f-2adb012b71e3)
+
