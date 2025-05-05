@@ -71,9 +71,12 @@
 
 ![image](https://github.com/user-attachments/assets/1cd56ab7-a9b6-4150-9e6e-1c67dd2cadd3)
 
+**Memory Available vs CPU Usage**
+
+![image](https://github.com/user-attachments/assets/fa103899-5290-4b56-99fb-ca5faa9282b0)
+
 **Predicted vs Memory Available GB**
 
-![image](https://github.com/user-attachments/assets/70b6875a-c65e-4c8e-8e5f-9b48e3cf883b)
+![image](https://github.com/user-attachments/assets/daa0df81-8810-43a3-be49-4af6f16d5a9e)
 
-![image](https://github.com/user-attachments/assets/6206439d-e623-4344-ab5f-2adb012b71e3)
 
