@@ -14,9 +14,9 @@ I first logged into the Mathworks account and created new channels called cpu_lo
 
 ![image](https://github.com/user-attachments/assets/16c2b6b3-7dbb-46f1-b2f9-6aa54995b5c0)
 
-## Run `thingspeak_feed.py`
-
 ![image](https://github.com/user-attachments/assets/ec4b8846-470a-4809-b965-acc9647f2299)
+
+## Run `thingspeak_feed.py`
 
 ![image](https://github.com/user-attachments/assets/9bd24ce5-ccd4-4673-9b5e-10e651d4d51e)
 
