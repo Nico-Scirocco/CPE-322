@@ -52,6 +52,7 @@
 ## Resulting Plots
 
 **Time Series of CPU Usage and Memory Available**
+**Note: Zoomed it to better show the graph**
 
 ![image](https://github.com/user-attachments/assets/319d301c-ba01-4760-8be4-de5124c6bf4b)
 
