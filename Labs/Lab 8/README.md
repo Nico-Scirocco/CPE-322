@@ -37,5 +37,40 @@
 
 ![image](https://github.com/user-attachments/assets/baf241db-ce1f-4e6c-b405-6335eef819ce)
 
+## Copy Files: `cp ~/iot/*8/plt_final.py .`  and `cp ~/iot/*8/plt_cv2.py .`
 
+![image](https://github.com/user-attachments/assets/58ce5bd9-5ff5-4d43-9d6d-28808fb89cdf)
 
+## Edit `plt_final.py`
+
+![image](https://github.com/user-attachments/assets/e3032be5-0f75-44ac-b40b-e10dab1af2eb)
+
+## Edit `plt_cv2.py`
+
+![image](https://github.com/user-attachments/assets/533cf03d-70d9-42e0-b087-53ba3ad7b893)
+
+## Resulting Plots
+
+**Time Series of CPU Usage and Memory Available**
+
+![image](https://github.com/user-attachments/assets/319d301c-ba01-4760-8be4-de5124c6bf4b)
+
+**CPU Usage Histogram**
+
+![image](https://github.com/user-attachments/assets/bec4ad7e-8497-4365-89d8-3b0eff6046b8)
+
+**Memory Available Histogram**
+
+![image](https://github.com/user-attachments/assets/5a09c325-a946-4fee-8aa9-783cb7af5dd4)
+
+**CPU Usage Box Plot**
+
+![image](https://github.com/user-attachments/assets/7c603cd4-38a3-4f0a-a47e-e863b912f189)
+
+**Memory Available Box Plot**
+
+![image](https://github.com/user-attachments/assets/1cd56ab7-a9b6-4150-9e6e-1c67dd2cadd3)
+
+**Predicted vs Memory Available GB**
+
+![image](https://github.com/user-attachments/assets/70b6875a-c65e-4c8e-8e5f-9b48e3cf883b)
